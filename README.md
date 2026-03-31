@@ -36,7 +36,7 @@
 
 ---
 
-## 📌 Module Summaries
+##  Module Summaries
 
 ### Task 1 — Presentation
 - Created an infographic on **Digital Literacy Awareness**.  
@@ -66,7 +66,7 @@
 
 ---
 
-## 🚀 How to Navigate
+##  How to Navigate
 - **Report:** Open `report/Project_Report.docx` for the detailed write‑up.  
 - **Task 1:** Infographic in `Task_1-Presentation/`.  
 - **Task 2:** Portfolio screenshots in `Task_2-Digital Portfolio/`.  
@@ -77,5 +77,5 @@
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 This project demonstrates practical applications of digital literacy — from professional communication and portfolio building to awareness of cybercrime and safe online practices. Each task contributes to developing responsible digital habits and academic professionalism.
