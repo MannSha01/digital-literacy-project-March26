@@ -67,7 +67,7 @@
 ---
 
 ##  How to Navigate
-- **Report:** Open `report/Project_Report.docx` for the detailed write‑up.  
+- **Report:** Open `Digital_literacy_project-report.pdf` for the detailed write‑up.  
 - **Task 1:** Infographic in `Task_1-Presentation/`.  
 - **Task 2:** Portfolio screenshots in `Task_2-Digital Portfolio/`.  
 - **Task 3:** Coding certificate + Google Form + Google Sheet screenshots in `Task_3-platforms/`.  
